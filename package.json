@@ -9,15 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "bcryptjs": "^3.0.3",
-    "clsx": "^2.1.0",
-    "jsonwebtoken": "^9.0.3",
-    "lucide-react": "^0.344.0",
-    "mongoose": "^9.1.6",
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "tailwind-merge": "^2.2.1"
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.460.0",
+    "mongoose": "^8.22.1",
+    "next": "15.1.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "tailwind-merge": "^2.5.4"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.18",
